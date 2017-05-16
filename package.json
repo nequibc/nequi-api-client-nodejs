@@ -1,0 +1,15 @@
+{
+  "name": "nequi-api-client-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Joshua Moreno <jomgarci@bancolombia.com.co> (http://developers.nequi.com.co)",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "aws4": "^1.6.0",
+    "q": "^1.5.0"
+  }
+}
