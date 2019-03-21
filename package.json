@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node index.js"
   },
-  "author": "Joshua Moreno <jomgarci@bancolombia.com.co> (http://developers.nequi.com.co)",
+  "author": "Joshua Moreno <jomgarci@bancolombia.com.co> (https://conecta.nequi.com.co)",
   "license": "GPL-3.0",
   "dependencies": {
     "aws4": "^1.6.0",
