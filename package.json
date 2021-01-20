@@ -1,15 +1,16 @@
 {
   "name": "nequi-api-client-nodejs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "2.0.0",
+  "description": "Ejemplos de cómo usar el API de Nequi para integraciones con terceros.",
+  "main": "src/index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node src/index.js"
   },
   "author": "Joshua Moreno <jomgarci@bancolombia.com.co> (https://conecta.nequi.com.co)",
   "license": "GPL-3.0",
   "dependencies": {
-    "aws4": "^1.6.0",
-    "q": "^1.5.0"
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "moment": "^2.29.1"
   }
 }
