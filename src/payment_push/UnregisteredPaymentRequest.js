@@ -24,7 +24,7 @@ class UnregisteredPaymentRequest {
                     Channel: 'PNP04-C001',
                     RequestDate: '2020-01-17T20:26:12.654Z',
                     MessageID: '1234567890',
-                    ClientID: appCfg.clientId,
+                    ClientID: "12345",
                     Destination: {
                         ServiceName: 'PaymentsService',
                         ServiceOperation: 'unregisteredPayment',

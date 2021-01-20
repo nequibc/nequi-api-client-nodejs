@@ -25,7 +25,7 @@ class ChargeAccount {
                     Channel: 'MF-001',
                     RequestDate: '2020-01-17T20:26:12.654Z',
                     MessageID: '1234567890',
-                    ClientID: appCfg.clientId,
+                    ClientID: "12345",
                     Destination: {
                         ServiceName: 'CashInService',
                         ServiceOperation: 'cashIn',
