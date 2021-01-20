@@ -1,4 +1,6 @@
-require('dotenv').config({ path: '../app.env' });
+'use strict';
+
+require('dotenv').config({ path:  `${__dirname}/../app.env` });
 
 class AppConf {
     clientId = null;
